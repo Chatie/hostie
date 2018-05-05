@@ -11,3 +11,7 @@ Hostie for Chatie
 
 * [Language Guide (proto3)](https://developers.google.com/protocol-buffers/docs/proto3)
 * [Protocol Buffers for JavaScript (& TypeScript)](https://github.com/dcodeIO/protobuf.js)
+
+### Pub/Sub
+
+* [WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol: Remote Procedure Calls + Publish & Subscribe.](https://wamp-proto.org/)
