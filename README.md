@@ -15,3 +15,7 @@ Hostie for Chatie
 ### Pub/Sub
 
 * [WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol: Remote Procedure Calls + Publish & Subscribe.](https://wamp-proto.org/)
+
+### HTTP
+
+* [An overview of 301, 302 and 307](https://stackoverflow.com/a/42138726/1123955)
