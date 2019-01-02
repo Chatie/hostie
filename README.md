@@ -1,11 +1,32 @@
 # HOSTIE
+
 Hostie for Chatie
 
 ## SEE ALSO
 
+### HTTP POST Redirection
+
+* [Redirecting before POST upload has been completed](https://stackoverflow.com/a/2966580/1123955)
+
 ### gRPC
-* [gRPC Web implementation for Golang and TypeScript](https://github.com/improbable-eng/grpc-web)
+
 * [gRPC - A high performance, open-source universal RPC framework](https://grpc.io)
+
+#### gRPC Node.js
+
+* [gRPC in Node with a simple working example](https://grpc.io/docs/quickstart/node.html)
+* [Node.js programmer’s introduction to working with gRPC](https://grpc.io/docs/tutorials/basic/node.html)
+* [Robert Kubis - gRPC - boilerplate to high-performance scalable APIs - code.talks 2015](https://www.slideshare.net/AboutYouGmbH/robert-kubis-grpc-boilerplate-to-highperformance-scalable-apis-codetalks-2015)
+
+#### gRPC Web
+
+* [gRPC-Web: Typed Frontend Development](https://github.com/improbable-eng/grpc-web)
+* [gRPC-Web for browser (HTML) clients](https://github.com/grpc/grpc-web/blob/master/PROTOCOL-WEB.md)
+
+### Service Registry & Discovery 
+
+* [Service Discovery and Configuration Management for Node & Express with ZooKeeper](https://www.terlici.com/2015/07/02/nodejs-express-zookeeper.html)
+* [Service Discovery with etcd and Node.js](https://lukebond.ghost.io/service-discovery-with-etcd-and-node-js/amp/)
 
 ### ProtoBuf
 
