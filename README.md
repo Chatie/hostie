@@ -7,6 +7,7 @@ Hostie for Chatie
 ### HTTP POST Redirection
 
 * [Redirecting before POST upload has been completed](https://stackoverflow.com/a/2966580/1123955)
+* [Why doesn't HTTP have POST redirect?](https://softwareengineering.stackexchange.com/a/99966/276247)
 
 ### gRPC
 
