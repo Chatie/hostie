@@ -41,3 +41,7 @@ Hostie for Chatie
 ### HTTP
 
 * [An overview of 301, 302 and 307](https://stackoverflow.com/a/42138726/1123955)
+
+###  NAT Punching
+
+* [P2P TCP NAT穿透 P2P TCP NET Punching hold](https://github.com/chenboxing/punching)
